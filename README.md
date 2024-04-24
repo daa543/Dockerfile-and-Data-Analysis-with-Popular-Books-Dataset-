@@ -1,9 +1,9 @@
 # Dockerfile-and-Data-Analysis-with-Popular-Books-Dataset-
 
 # 1. Docker Setup - 
-Use the Official Jupyter Docker image from the following link: [Jupyter Docker Image]. - 
-Refer to the documentation provided at this link: [Jupyter Docker Stacks Documentation] for 
-guidance on selecting and running the Docker image. 
+Use the Official Jupyter Docker image from the following link: [Jupyter Docker Image].
+ 
+Refer to the documentation provided at this link: [Jupyter Docker Stacks Documentation] for guidance on selecting and running the Docker image. 
 # 2. Dockerfile - 
 Create a Dockerfile for your project. You can refer to the following reference for assistance: 
 [Setting Up and Running Jupyter Notebook in a Docker Container]. - 
